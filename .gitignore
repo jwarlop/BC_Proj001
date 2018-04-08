@@ -1,5 +1,12 @@
+# api keys
+api_keys
+
+# Log Files
+*.log
+
 # Object file
 *.o
 
 # Ada Library Information
 *.ali
+
