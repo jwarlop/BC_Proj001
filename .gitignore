@@ -10,3 +10,9 @@ api_keys.json
 # Ada Library Information
 *.ali
 
+# Checkpoints
+.ipynb_checkpoints/
+
+# Apple Stuff
+.DS_Store
+
